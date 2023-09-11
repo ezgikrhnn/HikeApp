@@ -1,5 +1,5 @@
 # HikeApp
-Here is my HikeApp Project
+Here is my HikeApp Udemy Project
 
 
 ![InCollage_20230911_142953887](https://github.com/ezgikrhnn/HikeApp/assets/109277079/04358a2f-5ab7-4c32-a001-2c61b5a0dec5)
